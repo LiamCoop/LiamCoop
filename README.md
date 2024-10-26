@@ -10,11 +10,10 @@ Software developer passionate about [your interests]. Currently working as a ful
 
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
 <!-- Add or modify badges for your tech stack -->
-![LiamCoop's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamCoop&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 📊 GitHub Stats
-![LiamCoop's Stats](https://github-readme-stats.vercel.app/api?username=LiamCoop&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![LiamCoop's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamCoop&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ## 🎯 Current Focus
 <!--- 🔭 I'm currently working on [Project Name] -->
@@ -30,10 +29,6 @@ Another project description. Highlight your achievements and technical challenge
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamcoop/)
-[![Email](https://img.shields.io/badge/Email-0077B5?style=flat&logo=amazonsimpleemailservice&logoColor=blue)](mailto:liamcoop@outlook.com?subject=Hoping+to+connect)
-
-## 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LiamCoop&theme=github)
 
 ## ⚡ Fun fact
 I love riding bikes! You can often find me out on the local mountain bike trails, or cruising around on my road bike!
