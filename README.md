@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Liam!
-
-## 🚀 About Me
-Software developer passionate about [your interests]. Currently working as a full stack dev
+Software engineer currently based in Canada, I'm currently working as a Full-Stack Developer, working primarily in Golang and TypeScript.
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
