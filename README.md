@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Liam!
-Software engineer based in Canada, I'm currently working as a Lead Developer at EducationPlannerBC, working primarily in Golang and TypeScript.
+# 👋 Hey! Welcome!
+I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at EducationPlannerBC, working primarily in Golang and TypeScript.
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
