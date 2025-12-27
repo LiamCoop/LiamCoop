@@ -3,8 +3,8 @@ I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead D
 
 ## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/Golang-F7DF1E?style=flat&logo=Go&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 <!-- Add or modify badges for your tech stack -->
 
