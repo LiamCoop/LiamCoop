@@ -2,28 +2,31 @@
 I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at EducationPlannerBC, working primarily in Golang and TypeScript.
 
 ## 💻 Tech Stack
+![Go](https://img.shields.io/badge/Golang-F7DF1E?style=flat&logo=Go&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=black)
-![Go](https://img.shields.io/badge/Golang-F7DF1E?style=flat&logo=Go&logoColor=black)
 
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
 <!-- Add or modify badges for your tech stack -->
 
 
 ## 📊 GitHub Stats
-![LiamCoop's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamCoop&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamCoop&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=github_dark)
 
 ## 🎯 Current Focus
 <!--- 🔭 I'm currently working on [Project Name] -->
 - 🌱 I'm currently learning about Software Architecture and Database design.
 
-<!--## 🌟 Featured Projects
-### [Project Name 1](link-to-project)
-Brief description of your project. What problem does it solve? What technologies did you use?
+## 🌟 Featured Projects
+### [Rules Engine](https://github.com/LiamCoop/rules)
+A high-performance rules engine that evaluates complex user-defined schemas using Common Expression Language. Achieves ~7k requests per second per instance through in-memory caching and precomputed evaluation environments.
 
-### [Project Name 2](link-to-project)
-Another project description. Highlight your achievements and technical challenges overcome.
--->
+**Tech Stack:** Go, PostgreSQL
+
+### [Distrace](https://github.com/LiamCoop/distrace)
+A distributed tracing backend for OpenTelemetry that correlates out-of-order spans across services using TraceID grouping and parent–child resolution. Implements bounded trace completion with inactivity and max-age limits (30s / 5m) to balance completeness with memory constraints.
+
+**Tech Stack:** Go, Kafka, OpenTelemetry
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamcoop/)
