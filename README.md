@@ -10,7 +10,7 @@ I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead D
 
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
 
 ## 🎯 Current Focus
 <!--- 🔭 I'm currently working on [Project Name] -->
