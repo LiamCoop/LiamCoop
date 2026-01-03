@@ -13,12 +13,11 @@ I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead D
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
 
 ## 🎯 Current Focus
-<!--- 🔭 I'm currently working on [Project Name] -->
-- 🌱 I'm currently learning about Software Architecture and Database design.
+- I'm currently working on a B2B tool for businesses to manage services and allow users to create/manage booking appointments online.
 
 ## 🌟 Featured Projects
 ### [Rules Engine](https://github.com/LiamCoop/rules)
-A high-performance rules engine that evaluates complex user-defined schemas using Common Expression Language. Achieves ~7k requests per second per instance through in-memory caching and precomputed evaluation environments.
+A high-throughput rules engine that evaluates complex user-defined schemas using Common Expression Language. Achieves ~7k requests per second per instance through in-memory caching and precomputed evaluation environments.
 
 **Tech Stack:** Go, PostgreSQL
 
