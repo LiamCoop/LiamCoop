@@ -29,11 +29,6 @@ A distributed tracing backend for OpenTelemetry that correlates out-of-order spa
 
 **Tech Stack:** Go, Kafka, OpenTelemetry
 
-## 💻 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=black)
-
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
