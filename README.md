@@ -1,6 +1,7 @@
 # 👋 Welcome!
 
-I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at [EducationPlannerBC](https://www.educationplannerbc.ca/){:target="\_blank"}, working primarily in Go and TypeScript.
+I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at [EducationPlannerBC](https://www.educationplannerbc.ca/),
+During the day I work primarily in Go and TypeScript, but I've been wrestling with Rust lately and loving it.
 
 ## 🌟 Featured Projects
 
