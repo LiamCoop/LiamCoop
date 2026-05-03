@@ -1,10 +1,6 @@
-# 👋 Hey! Welcome!
+# 👋 Welcome!
 
-I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at EducationPlannerBC, working primarily in Go and TypeScript.
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
+I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at [EducationPlannerBC](https://www.educationplannerbc.ca/), working primarily in Go and TypeScript.
 
 ## 🌟 Featured Projects
 
@@ -31,6 +27,15 @@ A real-time collaborative markdown editor for teams with automatic merge handlin
 A Rust CLI daemon that syncs local files with a remote Automerge document over WebSockets using the full automerge-repo handshake and CBOR message protocol.
 
 **Tech Stack:** Rust, Automerge, WebSockets, CBOR
+
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=TypeScript&logoColor=black)
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
 
 ## 📫 How to Reach Me
 
