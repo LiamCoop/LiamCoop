@@ -3,7 +3,7 @@
 I'm Liam, a Software Engineer based in Canada, I'm currently working as a Lead Developer at [EducationPlannerBC](https://www.educationplannerbc.ca/),
 During the day I work primarily in Go and TypeScript, but I've been wrestling with Rust lately and loving it.
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [MD-Editor](https://github.com/LiamCoop/md-editor)
 
@@ -29,7 +29,7 @@ A distributed tracing backend for OpenTelemetry that correlates out-of-order spa
 
 **Tech Stack:** Go, Kafka, OpenTelemetry
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamCoop&theme=gruvbox)
 
