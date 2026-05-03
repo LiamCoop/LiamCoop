@@ -5,18 +5,6 @@ During the day I work primarily in Go and TypeScript, but I've been wrestling wi
 
 ## 🌟 Featured Projects
 
-### [Rules Engine](https://github.com/LiamCoop/rules)
-
-A high-throughput rules engine that evaluates complex user-defined schemas using Common Expression Language. Achieves ~7k requests per second per instance through in-memory caching and precomputed evaluation environments.
-
-**Tech Stack:** Go, PostgreSQL
-
-### [Distrace](https://github.com/LiamCoop/distrace)
-
-A distributed tracing backend for OpenTelemetry that correlates out-of-order spans across services using TraceID grouping and parent–child resolution. Implements bounded trace completion with inactivity and max-age limits (30s / 5m) to balance completeness with memory constraints.
-
-**Tech Stack:** Go, Kafka, OpenTelemetry
-
 ### [MD-Editor](https://github.com/LiamCoop/md-editor)
 
 A real-time collaborative markdown editor for teams with automatic merge handling, live presence, threaded review comments, and offline-first sync.
@@ -28,6 +16,18 @@ A real-time collaborative markdown editor for teams with automatic merge handlin
 A Rust CLI daemon that syncs local files with a remote Automerge document over WebSockets using the full automerge-repo handshake and CBOR message protocol.
 
 **Tech Stack:** Rust, Automerge, WebSockets, CBOR
+
+### [Rules Engine](https://github.com/LiamCoop/rules)
+
+A high-throughput rules engine that evaluates complex user-defined schemas using Common Expression Language. Achieves ~7k requests per second per instance through in-memory caching and precomputed evaluation environments.
+
+**Tech Stack:** Go, PostgreSQL
+
+### [Distrace](https://github.com/LiamCoop/distrace)
+
+A distributed tracing backend for OpenTelemetry that correlates out-of-order spans across services using TraceID grouping and parent–child resolution. Implements bounded trace completion with inactivity and max-age limits (30s / 5m) to balance completeness with memory constraints.
+
+**Tech Stack:** Go, Kafka, OpenTelemetry
 
 ## 💻 Tech Stack
 
