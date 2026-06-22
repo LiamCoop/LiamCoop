@@ -11,7 +11,7 @@ A real-time collaborative markdown editor for teams with automatic merge handlin
 
 **Tech Stack:** TypeScript, Next.js, Automerge
 
-### [Automerge Sync Daemon](https://github.com/LiamCoop/automerge-sync-daemon)
+### [Automerge Sync Daemon](https://github.com/LiamCoop/syncserver-daemon)
 
 A Rust CLI daemon that syncs local files with a remote Automerge document over WebSockets using the full automerge-repo handshake and CBOR message protocol.
 
