@@ -23,6 +23,12 @@ A high-throughput rules engine that evaluates complex user-defined schemas using
 
 **Tech Stack:** Go, PostgreSQL
 
+### [Observability Agent](https://github.com/LiamCoop/observability-agent)
+
+An alert investigation agent that accepts Grafana alert webhooks, queues long-running investigations, and runs a LangGraph workflow to gather metrics, logs, traces, dashboards, and alert context before generating evidence-backed likely-cause summaries.
+
+**Tech Stack:** TypeScript, Node.js, LangGraph, OpenAI, Grafana, Redis, BullMQ
+
 ### [Distrace](https://github.com/LiamCoop/distrace)
 
 A distributed tracing backend for OpenTelemetry that correlates out-of-order spans across services using TraceID grouping and parent–child resolution. Implements bounded trace completion with inactivity and max-age limits (30s / 5m) to balance completeness with memory constraints.
